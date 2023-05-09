@@ -55,7 +55,6 @@ namespace GradingSystemCalculator
                 //Arranging results on the table
                 result = result + $" | {CourseCode,-13} |{CourseUnit,-12} |{Grade,-7}| {GradeUnit,-11}| {WeightPt,-10} |{Remark,-15}|\n";
 
-                //Console.Clear();
             }
             PrintTable display = new PrintTable(result, totalCourseUnit, totalCoursePassed, totalWeightPt, gpa);
             Console.WriteLine(); Console.WriteLine() ; Console.WriteLine() ;
