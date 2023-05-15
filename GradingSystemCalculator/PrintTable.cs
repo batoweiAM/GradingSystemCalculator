@@ -25,14 +25,12 @@ namespace GradingSystemCalculator
 
         
         public void DisplayTable()
-        {
-
-            //Table showing results
+        {   //Table showing results
             Console.WriteLine(" TABLE SHOWING STUDENT RESULTS ");
             Console.WriteLine(" |---------------|-------------|-------|------------|------------|---------------|");
             Console.WriteLine(" | COURSE & CODE | COURSE UNIT | GRADE | GRADE-UNIT | WEIGHT Pt. | REMARK        |");
             Console.WriteLine(" |---------------|-------------|-------|------------|------------|---------------|");
-            Console.WriteLine(result);
+            Console.Write(result); 
             Console.WriteLine(" |_______________|_____________|_______|____________|____________|_______________|");
             Console.WriteLine();Console.WriteLine();
             Console.WriteLine("Total Course Unit Registered is: " + totalCourseUnit);

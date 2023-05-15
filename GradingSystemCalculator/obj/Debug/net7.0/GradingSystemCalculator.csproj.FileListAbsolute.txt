@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\GradingSystemCalculator\GradingSystemCalculator\bin\Debug\net7.0\GradingSystemCalculator.exe
+C:\Users\user\source\repos\GradingSystemCalculator\GradingSystemCalculator\bin\Debug\net7.0\GradingSystemCalculator.deps.json
+C:\Users\user\source\repos\GradingSystemCalculator\GradingSystemCalculator\bin\Debug\net7.0\GradingSystemCalculator.runtimeconfig.json
+C:\Users\user\source\repos\GradingSystemCalculator\GradingSystemCalculator\bin\Debug\net7.0\GradingSystemCalculator.dll
+C:\Users\user\source\repos\GradingSystemCalculator\GradingSystemCalculator\bin\Debug\net7.0\GradingSystemCalculator.pdb
+C:\Users\user\source\repos\GradingSystemCalculator\GradingSystemCalculator\obj\Debug\net7.0\GradingSystemCalculator.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\GradingSystemCalculator\GradingSystemCalculator\obj\Debug\net7.0\GradingSystemCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\GradingSystemCalculator\GradingSystemCalculator\obj\Debug\net7.0\GradingSystemCalculator.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\GradingSystemCalculator\GradingSystemCalculator\obj\Debug\net7.0\GradingSystemCalculator.AssemblyInfo.cs
+C:\Users\user\source\repos\GradingSystemCalculator\GradingSystemCalculator\obj\Debug\net7.0\GradingSystemCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GradingSystemCalculator\GradingSystemCalculator\obj\Debug\net7.0\GradingSystemCalculator.dll
+C:\Users\user\source\repos\GradingSystemCalculator\GradingSystemCalculator\obj\Debug\net7.0\refint\GradingSystemCalculator.dll
+C:\Users\user\source\repos\GradingSystemCalculator\GradingSystemCalculator\obj\Debug\net7.0\GradingSystemCalculator.pdb
+C:\Users\user\source\repos\GradingSystemCalculator\GradingSystemCalculator\obj\Debug\net7.0\GradingSystemCalculator.genruntimeconfig.cache
+C:\Users\user\source\repos\GradingSystemCalculator\GradingSystemCalculator\obj\Debug\net7.0\ref\GradingSystemCalculator.dll
