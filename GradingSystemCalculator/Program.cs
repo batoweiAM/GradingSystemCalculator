@@ -28,6 +28,13 @@ namespace GradingSystemCalculator
             Console.WriteLine("KINDLY INPUT YOUR COURSE DETAILS AND FOLLOW THE PROMPT");
             Console.WriteLine("How many courses do you offer: ");
             InputCount = Convert.ToInt32(Console.ReadLine());
+            while (InputCount <= 0)
+            {
+                Console.WriteLine("Please Input a valid interger range: format 1 - 10");
+                Console.WriteLine("How many courses do you offer: ");
+                InputCount = Convert.ToInt32(Console.ReadLine());
+            }
+
 
             //looping through the variables
             for (int i = 1; i <= InputCount; i++)
@@ -40,7 +47,7 @@ namespace GradingSystemCalculator
                     Console.WriteLine("Please Input Valid Format: Format: MAT101, CHM101.");
                     CourseCode = Console.ReadLine();
                 }
-
+                
                 Console.WriteLine("Input course Unit: ");
                 string? UnitInput = Console.ReadLine();
                 int unit;
